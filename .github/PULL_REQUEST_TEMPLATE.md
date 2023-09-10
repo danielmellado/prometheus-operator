@@ -31,3 +31,7 @@ Some brief examples of release notes:
 ```release-note
 
 ```
+
+## Testing
+
+- [ ] I've read [Prometheus-Operator testing guidelines](../TESTING.MD)
